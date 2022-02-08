@@ -1,3 +1,7 @@
 # OS generated files #
 ######################
 .vagrant
+
+# Logs and databases #
+######################
+*.log
